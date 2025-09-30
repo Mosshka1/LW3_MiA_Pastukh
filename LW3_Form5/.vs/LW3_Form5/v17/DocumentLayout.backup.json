@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|c:\\users\\pastu\\source\\repos\\lw3_form5\\lw3_form5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|solutionrelative:lw3_form5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|c:\\users\\pastu\\source\\repos\\lw3_form5\\lw3_form5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|solutionrelative:lw3_form5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|c:\\users\\pastu\\source\\repos\\lw3_form5\\lw3_form5\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|solutionrelative:lw3_form5\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|c:\\users\\pastu\\source\\repos\\lw3_form5\\lw3_form5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6FE073-3230-4D55-A44F-5D66011C4B91}|LW3_Form5\\LW3_Form5.csproj|solutionrelative:lw3_form5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 811,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\ApiClient.cs",
+              "RelativeDocumentMoniker": "LW3_Form5\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\ApiClient.cs",
+              "RelativeToolTip": "LW3_Form5\\ApiClient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:43:31.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\Class1.cs",
+              "RelativeDocumentMoniker": "LW3_Form5\\Class1.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\Class1.cs",
+              "RelativeToolTip": "LW3_Form5\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:40:31.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\Form1.cs",
+              "RelativeDocumentMoniker": "LW3_Form5\\Form1.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\Form1.cs",
+              "RelativeToolTip": "LW3_Form5\\Form1.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAowNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:30:31.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\Form1.cs",
+              "RelativeDocumentMoniker": "LW3_Form5\\Form1.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\LW3_Form5\\LW3_Form5\\Form1.cs [Design]",
+              "RelativeToolTip": "LW3_Form5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:26:13.291Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 913,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
