@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pastu\\source\\repos\\MiA 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\validatots\\roomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\validatots\\roomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\validatots\\gamesessionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\validatots\\gamesessionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\validatots\\bookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\validatots\\bookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\models\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\models\\scenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\models\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\data\\speeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\data\\speeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\data\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\data\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\controllers\\scenarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\controllers\\scenarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|c:\\users\\pastu\\source\\repos\\mia 2\\mia 2\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9F18E9-0365-42F5-80DC-F8EAC43BE6CA}|MiA 2\\MiA 2.csproj|solutionrelative:mia 2\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 811,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\GameSession.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Models\\GameSession.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\GameSession.cs",
+              "RelativeToolTip": "MiA 2\\Models\\GameSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:59:47.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Room.cs",
+              "RelativeToolTip": "MiA 2\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:58:32.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scenario.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Scenario.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Models\\Scenario.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Scenario.cs",
+              "RelativeToolTip": "MiA 2\\Models\\Scenario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:59:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Validatots\\BookingValidator.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Validatots\\BookingValidator.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Validatots\\BookingValidator.cs",
+              "RelativeToolTip": "MiA 2\\Validatots\\BookingValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:01:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSessionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Validatots\\GameSessionValidator.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Validatots\\GameSessionValidator.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Validatots\\GameSessionValidator.cs",
+              "RelativeToolTip": "MiA 2\\Validatots\\GameSessionValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:01:40.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomValidator.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Validatots\\RoomValidator.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Validatots\\RoomValidator.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Validatots\\RoomValidator.cs",
+              "RelativeToolTip": "MiA 2\\Validatots\\RoomValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:00:51.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Program.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Program.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Program.cs",
+              "RelativeToolTip": "MiA 2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:03:35.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Enums.cs",
+              "RelativeToolTip": "MiA 2\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:00:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Models\\Booking.cs",
+              "RelativeToolTip": "MiA 2\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:59:21.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpeedData.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Data\\SpeedData.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Data\\SpeedData.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Data\\SpeedData.cs",
+              "RelativeToolTip": "MiA 2\\Data\\SpeedData.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:23:28.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InMemoryDb.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Data\\InMemoryDb.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Data\\InMemoryDb.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Data\\InMemoryDb.cs",
+              "RelativeToolTip": "MiA 2\\Data\\InMemoryDb.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:00:31.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Controllers\\SessionsController.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "MiA 2\\Controllers\\SessionsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:02:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScenariosController.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\ScenariosController.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Controllers\\ScenariosController.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\ScenariosController.cs",
+              "RelativeToolTip": "MiA 2\\Controllers\\ScenariosController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:02:09.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "MiA 2\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:01:54.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "MiA 2\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\pastu\\source\\repos\\MiA 2\\MiA 2\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "MiA 2\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:02:23.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 913,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

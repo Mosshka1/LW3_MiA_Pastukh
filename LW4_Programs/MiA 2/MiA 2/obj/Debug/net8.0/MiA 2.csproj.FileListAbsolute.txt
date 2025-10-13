@@ -1,0 +1,38 @@
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\appsettings.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\MiA 2.staticwebassets.endpoints.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\MiA 2.exe
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\MiA 2.deps.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\MiA 2.runtimeconfig.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\MiA 2.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\MiA 2.pdb
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.csproj.AssemblyReference.cache
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.AssemblyInfoInputs.cache
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.AssemblyInfo.cs
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.csproj.CoreCompileInputs.cache
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\scopedcss\bundle\MiA 2.styles.css
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.csproj.Up2Date
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\refint\MiA 2.dll
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.pdb
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\MiA 2.genruntimeconfig.cache
+C:\Users\pastu\source\repos\MiA 2\MiA 2\obj\Debug\net8.0\ref\MiA 2.dll
